@@ -21,7 +21,7 @@ Dan een bos rozen, een plantje, twee takken pinksterrozen, dat waren die ochtend
 bos[bouquet],  takken[piece of],  pinksterrozen[pentecost rose], waren[product], kwam[come]
 
 Van papa en mama heb ik een heleboel gekregen en ook door onze vele kennissen ben ik erg verwend.
-heleboel[many], vele[many], kennissen[acquaintance], erg[terrible], verwend[spoiled]
+heleboel[many], vele[many], kennissen[acquaintance], erg[very], verwend[spoiled]
 
 Zo notving ik o.a. deCamera Obscura, een gezelschapsspel, veel snoep, chocola, een puzzle, een broche, Nederlandse Sagen en Legenden door Joseph Cohen, Daisy's Bergvacantie, een enig boek, en wat geld, zodat ik me Mythen van Griekenland en Rome kan kopen, jn!
 notving[?], gezelschapsspel[boardgame], snoep[candy], broche[brooch], Sagen[legend], Bergvacantie[mountain vacation], enig[any], wat geld[some money], Mythen[myth],  Griekenland[Geek]
