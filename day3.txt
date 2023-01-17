@@ -52,10 +52,10 @@ Mijn zuster Margot werd in 1926 geboren in Frankfurt a/M., op 12 Juni 1929 volgd
 geboren[born],  emigreerden[migrant],  aangesteld[appoint]
 
 Deze staat in nauwe relatie tot de rma Kolen & Co. in hetzelfde gebouw, waarvan vader mede deelgenoot is.
-hetzelfde[相同],  deelgenoot[分享者，股东]
+hetzelfde[same],  deelgenoot[shareholder]
 
 Ons leven verliep met de nodige opwindingen, daar de overgebleven familie niet door Hitlers Jodenwetten gespaard bleef.
-verliep[?], nodige[必要的],  opwindingen[激动], overgebleven[其余的], gespaard[幸免于难]
+verliep[?], nodige[must],  opwindingen[exciting], overgebleven[the rest], gespaard[survived]
 
 In 1938 na de progroms vluchtten mijn twee ooms, broers van mijn moeder en belandden veiling in U.S.A.
 vluchtten[run away],  belandden[?],  veiling[?]
